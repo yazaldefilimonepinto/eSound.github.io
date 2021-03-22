@@ -19,7 +19,7 @@ try{
         next(){
             this.index++
             this.musica.src =  wai(this.masterPlay[1].musica)
-            alert("oi") 
+           // alert("oi") 
 
         }
     }
