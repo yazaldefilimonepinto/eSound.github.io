@@ -1,4 +1,7 @@
-# eSound
+# eSound 🤓😜
+<div alian="center">
+    <img src="main.png">
+</div>
 O que e #eSound?
 > E um leitor de música desenvolvido em JavaScript HTML CSS.
 
