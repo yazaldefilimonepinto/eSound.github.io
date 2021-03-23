@@ -7,7 +7,9 @@
 
 <p>O que e eSound?</p>
 > E um leitor de música desenvolvido em JavaScript HTML CSS.
+
 **Actualização***
+
 <div alian="center">
     <img heidth="50%" src="public/root.png">
 </div>
