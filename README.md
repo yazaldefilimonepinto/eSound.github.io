@@ -55,4 +55,4 @@
 
 
 
-**Created with 💙 by  [Yazalde Felimone](https://linkedin.com/)**
+**Created with 💙 by  [Yazalde Felimone](https://www.linkedin.com/in/yazalde-filimone-65142b206)**
