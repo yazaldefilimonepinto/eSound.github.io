@@ -1,6 +1,6 @@
 {
   "name": "eSoundNode",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Play audio",
   "main": "index.js",
   "author": "Yazalde felimone",
